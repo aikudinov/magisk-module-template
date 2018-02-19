@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=safetynet-fingerprint-fix
+name=Safetynet fingerprint fix
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=elhana
+description=Change ro.build.fingerprint and ro.bootimage.build.fingerprint to safetynet passing value
 minMagisk=1500
